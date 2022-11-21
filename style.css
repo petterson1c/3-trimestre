@@ -8,5 +8,7 @@ main {background-color: #8ddefc;}
 nav li {text-transform: uppercase;list-style: none; text-decoration: none}
 nav a {color: aliceblue;list-style: none; text-decoration: none}
 .PRIMEIRO PARAGRAFO  {text-align: justify; font-size: 18px; border: #3efaF7 2px; padding: 10px; margin: 10px;}
-.SEGUNDOPARAGRAFO  
- 
+.SEGUNDOPARAGRAFO  {text-align: justify; font-size: 18px; border:#3efaF7 2px; padding: 10px; margin: 10px;}
+#TITULODAIMAGEM {width: 5% ; height: ;}
+#lista02 {display: inline-block;}
+#lista01 {display:block; text-align: right;}
